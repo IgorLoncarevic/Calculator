@@ -19,7 +19,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     private EditText a, b;
-    //private Button plus, minus, puta, podeljeno;
+    private Button plus, minus, puta, podeljeno;
     RadioGroup rg;
     RadioButton rb;
     boolean boolA = true;
